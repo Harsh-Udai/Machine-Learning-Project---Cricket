@@ -1,0 +1,293 @@
+,Player_Id,Runs,Over_count,Econ_Rate,cluster,Player_Name,Bowling_Skill,DOB,Country
+0,396,7.0,1.0,7.0,0,KS Williamson,Right-arm offbreak,8-Aug-90,New Zealand
+1,158,214.0,30.0,7.13,0,KP Pietersen,Right-arm offbreak,27-Jun-80,South Africa
+2,161,301.0,35.5,8.48,0,RS Bopara,Right-arm medium,4-May-85,England
+3,448,6.0,1.1666666666666667,5.14,0,SS Mundhe,Right-arm medium,27-Oct-88,India
+4,181,284.0,37.0,7.68,0,KP Appanna,Slow left-arm orthodox,20-Dec-88,India
+5,179,154.0,17.166666666666668,8.97,0,Shoaib Ahmed,Right-arm fast-medium,17-Aug-90,Pakistan
+6,104,309.0,39.666666666666664,7.79,0,BJ Hodge,Right-arm offbreak,29-Dec-74,Australia
+7,133,59.0,6.166666666666667,9.57,0,SR Tendulkar,Right-arm offbreak,24-Apr-73,India
+8,305,357.0,36.5,9.78,0,GJ Maxwell,Right-arm offbreak,14-Oct-88,Australia
+9,301,18.0,2.6666666666666665,6.75,0,S Rana,Right-arm medium-fast,18-Sep-84,India
+10,218,304.0,36.666666666666664,8.29,0,S Tyagi,Right-arm medium,17-Sep-87,India
+11,180,28.0,4.0,7.0,0,GR Napier,Right-arm medium,6-Jan-80,England
+12,184,74.0,11.166666666666666,6.63,0,SM Harwood,Right-arm fast-medium,1-Mar-74,Australia
+13,169,45.0,5.0,9.0,0,AS Raut,Legbreak googly,3-Mar-87,India
+14,300,7.0,1.0,7.0,0,Y Gnaneswara Rao,Right-arm medium,25-Aug-84,India
+15,189,56.0,7.166666666666667,7.81,0,D du Preez,Right-arm fast-medium,8-Nov-81,South Africa
+16,446,196.0,27.0,7.26,0,Anand Rajan,Right-arm medium,17-Apr-87,India
+17,297,323.0,42.5,7.6,0,AA Chavan,Slow left-arm orthodox,28-Oct-85,India
+18,178,198.0,25.333333333333332,7.82,0,TL Suman,Right-arm offbreak,15-Dec-83,India
+19,389,168.0,19.333333333333332,8.69,0,M de Lange,Right-arm fast,13-Oct-90,South Africa
+20,165,160.0,25.0,6.4,0,FH Edwards,Right-arm fast,6-Feb-82,West Indies
+21,335,242.0,39.0,6.21,0,A Chandila,Right-arm offbreak,5-Dec-83,India
+22,142,42.0,5.166666666666667,8.13,0,PM Sarvesh Kumar,Right-arm medium,26-Apr-89,India
+23,318,60.0,7.0,8.57,0,CJ McKay,Right-arm fast-medium,20-Feb-83,Australia
+24,326,289.0,35.166666666666664,8.22,0,V Pratap Singh,Right-arm medium,3-May-92,India
+25,438,31.0,3.0,10.33,0,A Nel,Right-arm fast-medium,15-Jul-77,South Africa
+26,174,306.0,41.333333333333336,7.4,0,BAW Mendis,Right-arm offbreak,11-Mar-85,Sri Lanka
+27,156,164.0,24.0,6.83,0,T Thushara,Left-arm fast-medium,1-Mar-81,Sri Lanka
+28,307,244.0,33.5,7.28,0,MN Samuels,Right-arm offbreak,5-Feb-81,West Indies
+29,155,106.0,11.0,9.64,0,A Flintoff,Right-arm fast-medium,6-Dec-77,England
+30,160,248.0,29.5,8.41,0,Kamran Khan,Left-arm medium-fast,10-Mar-91,India
+31,159,41.0,6.0,6.83,0,T Henderson,Right-arm fast-medium,1-Aug-74,South Africa
+32,157,308.0,40.166666666666664,7.67,0,JD Ryder,Right-arm medium,6-Aug-84,New Zealand
+33,312,31.0,4.166666666666667,7.44,0,DAJ Bracewell,Right-arm fast-medium,28-Sep-90,New Zealand
+34,439,205.0,26.0,7.88,0,AM Salvi,Right-arm medium,20-Oct-81,India
+35,215,311.0,37.0,8.41,0,YA Abdulla,Left-arm fast-medium,17-Jan-83,India
+36,243,268.0,35.333333333333336,7.58,0,VS Malik,Right-arm medium,9-May-83,India
+37,313,26.0,3.0,8.67,0,DJ Harris,Right-arm medium,31-Dec-79,Australia
+38,445,21.0,2.1666666666666665,9.69,0,AA Kazi,Slow left-arm orthodox,29-Sep-89,India
+39,182,6.0,1.1666666666666667,5.14,0,LA Carseldine,Left-arm medium,17-Nov-75,Australia
+40,294,222.0,26.5,8.38,0,P Parameswaran,Left-arm medium,30-May-85,India
+41,265,20.0,3.0,6.67,0,NJ Rimmington,Right-arm fast-medium,11-Nov-82,Australia
+42,171,42.0,7.0,6.0,0,M Manhas,Right-arm offbreak,12-Oct-79,India
+43,230,76.0,9.333333333333334,8.14,0,AC Voges,Slow left-arm orthodox,4-Oct-79,Australia
+44,275,222.0,25.833333333333332,8.59,0,JEC Franklin,Left-arm medium,7-Nov-80,New Zealand
+45,233,308.0,39.166666666666664,7.86,0,J Theron,Right-arm medium-fast,24-Jul-85,South Africa
+46,259,130.0,16.166666666666668,8.04,0,RV Gomez,Right-arm medium,16-Oct-85,India
+47,240,80.0,8.666666666666666,9.23,0,KAJ Roach,Right-arm fast,30-Jun-88,West Indies
+48,465,42.0,5.5,7.64,0,DL Chahar,Right-arm medium,7-Aug-92,India
+49,241,101.0,15.0,6.73,0,PD Collingwood,Right-arm medium,26-May-76,England
+50,273,147.0,18.0,8.17,0,SB Wagh,Left-arm medium-fast,9-Oct-88,India
+51,261,63.0,6.833333333333333,9.22,0,AUK Pathan,Right-arm medium,17-Jun-84,India
+52,266,144.0,18.833333333333332,7.65,0,AL Menaria,Slow left-arm orthodox,29-Oct-90,India
+53,245,114.0,12.166666666666666,9.37,0,AP Dole,Right-arm medium-fast,9-Oct-87,India
+54,278,223.0,30.0,7.43,0,S Randiv,Right-arm offbreak,30-Jan-85,Sri Lanka
+55,229,20.0,2.0,10.0,0,FY Fazal,Right-arm medium,7-Sep-85,India
+56,298,79.0,9.5,8.32,0,ND Doshi,Slow left-arm orthodox,6-Oct-78,India
+57,444,33.0,3.1666666666666665,10.42,0,MB Parmar,Right-arm offbreak,12-Apr-88,India
+58,220,225.0,31.833333333333332,7.07,0,SE Bond,Right-arm fast,7-Jun-75,New Zealand
+59,284,90.0,13.833333333333334,6.51,0,RN ten Doeschate,Right-arm medium-fast,30-Jun-80,Netherlands
+60,222,225.0,23.5,9.57,0,S Ladda,Legbreak,10-Jul-86,India
+61,193,58.0,8.333333333333334,6.96,0,C Nanda,Legbreak,29-Mar-79,India
+62,441,34.0,4.166666666666667,8.16,0,SS Sarkar,Right-arm medium,15-Dec-84,India
+63,324,116.0,17.833333333333332,6.5,0,KMDN Kulasekara,Right-arm fast-medium,22-Jul-82,Sri Lanka
+64,85,5.0,1.0,5.0,0,AM Rahane,Right-arm medium,6-Jun-88,India
+65,282,167.0,20.333333333333332,8.21,0,JE Taylor,Right-arm fast,22-Jun-84,New Zealand
+66,198,260.0,31.333333333333332,8.3,0,AB McDonald,Right-arm fast-medium,5-Jun-81,Australia
+67,199,123.0,12.0,10.25,0,Y Nagar,Right-arm offbreak,6-Jan-90,India
+68,242,199.0,27.5,7.24,0,CK Langeveldt,Right-arm fast-medium,17-Dec-74,England
+69,281,35.0,5.0,7.0,0,NL McCullum,Right-arm offbreak,1-Sep-80,New Zealand
+70,206,174.0,18.5,9.41,0,Jaskaran Singh,Right-arm medium,4-Sep-89,India
+71,283,282.0,32.666666666666664,8.63,0,J Syed Mohammad,Slow left-arm orthodox,3-Jun-83,India
+72,211,129.0,14.666666666666666,8.8,0,AA Jhunjhunwala,Right-arm offbreak,1-Dec-82,India
+73,42,66.0,8.166666666666666,8.08,0,S Dhawan,Right-arm offbreak,5-Dec-85,India
+74,167,207.0,25.5,8.12,0,PC Valthaty,Right-arm medium,7-Dec-83,India
+75,209,232.0,24.0,9.67,0,R Sathish,Right-arm medium,14-Jan-81,India
+76,219,8.0,1.0,8.0,0,RS Gavaskar,Slow left-arm orthodox,20-Feb-76,India
+77,217,58.0,7.833333333333333,7.4,0,JM Kemp,Right-arm fast-medium,2-Oct-77,South Africa
+78,358,125.0,12.5,10.0,0,LJ Wright,Right-arm medium-fast,7-Mar-85,England
+79,291,76.0,7.5,10.13,0,L Ablish,Right-arm medium-fast,3-Dec-82,India
+80,144,54.0,7.666666666666667,7.04,0,Shoaib Akhtar,Right-arm fast,13-Aug-75,Pakistan
+81,342,210.0,21.666666666666668,9.69,0,R Shukla,Right-arm medium,28-Aug-90,India
+82,400,333.0,35.5,9.38,0,HH Pandya,Right-arm medium-fast,11-Oct-93,India
+83,399,63.0,6.166666666666667,10.22,0,RG More,Right-arm medium,2-Feb-92,India
+84,398,369.0,42.166666666666664,8.75,0,J Suchith,Slow left-arm orthodox,16-Jan-94,India
+85,394,228.0,29.5,7.73,0,DJ Hooda,Right-arm offbreak,19-Apr-95,India
+86,422,188.0,19.5,9.64,0,KC Cariappa,Legbreak,13-Apr-94,India
+87,458,278.0,34.5,8.06,0,TA Boult,Left-arm fast-medium,22-Jul-89,New Zealand
+88,404,108.0,14.0,7.71,0,DJ Muthuswami,Right-arm medium,9-Mar-81,India
+89,392,323.0,35.5,9.1,0,Karanveer Singh,Legbreak googly,8-Nov-87,India
+90,37,80.0,8.5,9.41,0,D Salunkhe,Legbreak,12-Nov-82,India
+91,457,66.0,10.166666666666666,6.49,0,JW Hastings,Right-arm fast-medium,4-Nov-85,Australia
+92,12,246.0,32.166666666666664,7.65,0,B Akhil,Right-arm medium-fast,7-Oct-77,India
+93,405,132.0,15.0,8.8,0,PJ Cummins,Right-arm fast,8-May-93,Australia
+94,387,239.0,26.166666666666668,9.13,0,BE Hendricks,Left-arm fast-medium,8-Jun-90,South Africa
+95,388,155.0,19.333333333333332,8.02,0,S Gopal,Legbreak,4-Sep-93,India
+96,385,111.0,15.333333333333334,7.24,0,BCJ Cutting,Right-arm fast-medium,30-Jan-87,Australia
+97,381,165.0,19.0,8.68,0,Shivam Sharma,Right-arm offbreak,9-Sep-93,India
+98,48,323.0,39.833333333333336,8.11,0,AM Nayar,Right-arm medium,8-Oct-83,India
+99,329,97.0,13.666666666666666,7.1,0,Gurkeerat Singh,Right-arm offbreak,29-Jun-90,India
+100,308,8.0,1.0,8.0,0,SA Yadav,Right-arm offbreak,14-Sep-90,India
+101,425,154.0,24.333333333333332,6.33,0,J Yadav,Right-arm offbreak,22-Jan-90,India
+102,411,15.0,2.0,7.5,0,C Munro,Right-arm medium-fast,11-Mar-87,New Zealand
+103,369,8.0,1.6666666666666667,4.8,0,Sachin Baby,Right-arm offbreak,18-Dec-88,India
+104,13,41.0,4.166666666666667,9.84,0,AA Noffke,Right-arm fast-medium,30-Apr-77,Australia
+105,430,117.0,17.166666666666668,6.82,0,A Zampa,Legbreak googly,31-Mar-92,Australia
+106,16,82.0,9.166666666666666,8.95,0,SB Joshi,Slow left-arm orthodox,6-Jun-70,India
+107,434,266.0,30.166666666666668,8.82,0,CJ Jordan,Right-arm fast-medium,4-Oct-88,England
+108,424,29.0,3.0,9.67,0,Swapnil Singh,Slow left-arm orthodox,22-Jan-91,India
+109,464,56.0,7.166666666666667,7.81,0,SM Boland,Right-arm fast-medium,11-Apr-89,Australia
+110,432,195.0,23.666666666666668,8.24,0,S Kaushik,Slow left-arm chinaman,7-Sep-95,India
+111,463,151.0,16.0,9.44,0,T Shamsi,Slow left-arm chinaman,18-Feb-90,South Africa
+112,413,238.0,32.333333333333336,7.36,0,KH Pandya,Slow left-arm orthodox,24-Mar-91,India
+113,462,102.0,12.333333333333334,8.27,0,Kuldeep Yadav,Slow left-arm chinaman,14-Dec-94,India
+114,412,152.0,17.833333333333332,8.52,0,P Sahu,Legbreak googly,21-Aug-85,India
+115,409,203.0,23.333333333333332,8.7,0,MP Stoinis,Right-arm medium,16-Aug-89,Australia
+116,24,94.0,11.166666666666666,8.42,0,K Goel,Right-arm offbreak,24-Dec-86,India
+117,408,192.0,23.833333333333332,8.06,0,CR Brathwaite,Right-arm fast-medium,18-Jul-88,West Indies
+118,68,98.0,12.5,7.84,0,WA Mota,Right-arm medium,20-Sep-81,India
+119,22,354.0,40.666666666666664,8.7,0,JDP Oram,Right-arm fast-medium,28-Jul-78,New Zealand
+120,418,245.0,29.333333333333332,8.35,0,M Ashwin,Legbreak googly,8-Sep-90,India
+121,323,70.0,8.0,8.75,0,RJ Peterson,Slow left-arm orthodox,4-Aug-79,South Africa
+122,254,67.0,7.333333333333333,9.14,0,AJ Finch,Slow left-arm orthodox,17-Nov-86,Australia
+123,390,90.0,12.166666666666666,7.4,0,R Tewatia,Legbreak,20-May-93,India
+124,149,306.0,41.5,7.37,0,CRD Fernando,Right-arm fast-medium,19-Jul-79,Sri Lanka
+125,343,68.0,7.5,9.07,0,B Laughlin,Right-arm fast-medium,3-Oct-82,Australia
+126,41,236.0,23.0,10.26,0,V Sehwag,Right-arm offbreak,20-Oct-78,India
+127,437,142.0,14.0,10.14,0,Gagandeep Singh,Right-arm medium-fast,3-Oct-81,India
+128,54,338.0,37.0,9.14,0,Y Venugopal Rao,Right-arm offbreak,26-Feb-82,India
+129,105,198.0,25.5,7.76,0,Umar Gul,Right-arm fast-medium,14-Apr-84,Pakistan
+130,344,135.0,16.166666666666668,8.35,0,AS Rajpoot,Right-arm medium,4-Dec-93,India
+131,340,38.0,6.166666666666667,6.16,0,GH Vihari,Right-arm offbreak,13-Oct-93,India
+132,122,257.0,35.5,7.24,0,M Ntini,Right-arm fast,6-Jul-77,South Africa
+133,112,28.0,3.0,9.33,0,DB Ravi Teja,Legbreak googly,5-Sep-87,India
+134,45,40.0,7.333333333333333,5.45,0,DJ Thornely,Right-arm medium,1-Oct-78,Australia
+135,115,214.0,24.0,8.92,0,RR Raje,Right-arm fast-medium,3-Sep-86,India
+136,452,136.0,18.666666666666668,7.29,0,S Badree,Legbreak,9-Mar-81,West Indies
+137,108,22.0,2.1666666666666665,10.15,0,S Vidyut,Slow left-arm orthodox,3-Dec-81,India
+138,332,81.0,9.333333333333334,8.68,0,K Upadhyay,Right-arm medium,18-Jun-86,India
+139,328,67.0,11.0,6.09,0,MJ Clarke,Slow left-arm orthodox,2-Apr-81,Australia
+140,143,204.0,26.333333333333332,7.75,0,DP Vijaykumar,Right-arm medium,20-Oct-86,India
+141,5,71.0,10.5,6.76,0,Mohammad Hafeez,Right-arm offbreak,17-Oct-80,Pakistan
+142,348,36.0,5.0,7.2,0,BMAJ Mendis,Legbreak,15-Jan-83,Sri Lanka
+143,368,308.0,35.833333333333336,8.6,0,S Kaul,Right-arm medium,19-May-90,India
+144,185,49.0,6.166666666666667,7.95,0,M Vijay,Right-arm offbreak,1-Apr-84,India
+145,376,96.0,9.5,10.11,0,JDS Neesham,Right-arm medium,17-Sep-90,New Zealand
+146,58,278.0,37.0,7.51,0,SB Styris,Right-arm medium,10-Jul-75,New Zealand
+147,59,221.0,25.5,8.67,0,SB Bangar,Right-arm medium-fast,11-Oct-72,India
+148,372,221.0,23.0,9.61,0,CJ Anderson,Left-arm medium-fast,13-Dec-90,New Zealand
+149,366,273.0,33.333333333333336,8.19,0,Parvez Rasool,Right-arm offbreak,13-Feb-89,India
+150,353,12.0,1.1666666666666667,10.29,0,BJ Rohrer,,26-Mar-81,Australia
+151,86,87.0,9.666666666666666,9.0,0,Shoaib Malik,Right-arm offbreak,1-Feb-82,Pakistan
+152,117,307.0,33.166666666666664,9.26,0,Mohammad Asif,Right-arm fast-medium,20-Dec-82,Pakistan
+153,70,237.0,30.833333333333332,7.69,0,Shahid Afridi,Legbreak googly,1-Mar-80,Pakistan
+154,362,354.0,40.666666666666664,8.7,0,DJG Sammy,Right-arm medium-fast,20-Dec-83,West Indies
+155,72,52.0,5.0,10.4,0,MA Khote,Right-arm medium,22-Apr-80,India
+156,391,313.0,38.0,8.24,0,JO Holder,Right-arm medium-fast,5-Nov-91,West Indies
+157,352,208.0,32.5,6.4,0,SMSM Senanayake,Right-arm offbreak,9-Feb-85,Sri Lanka
+158,98,100.0,11.5,8.7,0,DNT Zoysa,Left-arm fast-medium,13-May-78,Sri Lanka
+159,148,62.0,6.333333333333333,9.79,0,SD Chitnis,Right-arm offbreak,6-May-87,India
+160,453,154.0,17.833333333333332,8.64,0,P Suyal,Left-arm medium,15-Oct-89,India
+161,315,1656.0,265.6666666666667,6.23,1,SP Narine,Right-arm offbreak,26-May-88,West Indies
+162,364,1674.0,214.83333333333334,7.79,1,MM Sharma,Right-arm medium,18-Sep-88,India
+163,299,1989.0,288.3333333333333,6.9,1,B Kumar,Right-arm medium,5-Feb-90,India
+164,221,1724.0,210.66666666666666,8.18,1,KA Pollard,Right-arm medium-fast,12-May-87,West Indies
+165,109,2378.0,301.0,7.9,1,JA Morkel,Right-arm medium-fast,10-Jun-81,South Africa
+166,39,1909.0,259.5,7.36,1,SK Trivedi,Right-arm medium,4-Sep-82,India
+167,32,2230.0,299.1666666666667,7.45,1,SR Watson,Right-arm fast-medium,17-Jun-81,Australia
+168,126,1652.0,223.16666666666666,7.4,1,MM Patel,Right-arm medium-fast,12-Jul-83,India
+169,89,1982.0,269.6666666666667,7.35,1,R Bhatia,Right-arm medium-fast,22-Oct-79,India
+170,131,2379.0,324.1666666666667,7.34,1,PP Ojha,Slow left-arm orthodox,5-Sep-86,India
+171,190,2104.0,283.1666666666667,7.43,1,M Morkel,Right-arm fast,6-Oct-84,South Africa
+172,232,2335.0,288.1666666666667,8.1,1,UT Yadav,Right-arm fast-medium,25-Oct-87,India
+173,73,2321.0,307.0,7.56,1,A Nehra,Left-arm medium-fast,29-Apr-79,India
+174,80,1736.0,227.66666666666666,7.63,1,DS Kulkarni,Right-arm medium,10-Dec-88,India
+175,121,1743.0,263.5,6.61,1,M Muralitharan,Right-arm offbreak,17-Apr-72,Sri Lanka
+176,151,2055.0,262.3333333333333,7.83,1,L Balaji,Right-arm medium-fast,27-Sep-81,India
+177,35,2166.0,288.8333333333333,7.5,1,RA Jadeja,Slow left-arm orthodox,6-Dec-88,India
+178,61,2382.0,312.3333333333333,7.63,1,RP Singh,Left-arm fast-medium,6-Dec-85,India
+179,84,2092.0,266.5,7.85,1,I Sharma,Right-arm fast-medium,2-Sep-88,India
+180,106,1961.0,254.0,7.72,1,AB Dinda,Right-arm medium-fast,25-Mar-84,India
+181,9,2316.0,299.8333333333333,7.72,1,JH Kallis,Right-arm fast-medium,16-Oct-75,South Africa
+182,363,450.0,54.333333333333336,8.28,2,KW Richardson,Right-arm fast-medium,12-Feb-91,Australia
+183,359,609.0,78.16666666666667,7.79,2,IC Pandey,Right-arm medium,15-Aug-89,India
+184,75,470.0,51.833333333333336,9.07,2,Pankaj Singh,Right-arm medium-fast,6-May-85,India
+185,91,504.0,59.833333333333336,8.42,2,VY Mahesh,Right-arm medium-fast,21-Dec-87,India
+186,253,414.0,54.5,7.6,2,MR Marsh,Right-arm medium,20-Oct-91,Australia
+187,102,275.0,44.166666666666664,6.23,2,Sohail Tanvir,Left-arm medium-fast,12-Dec-84,Pakistan
+188,349,315.0,46.333333333333336,6.8,2,R Rampaul,Right-arm fast-medium,15-Oct-84,West Indies
+189,356,652.0,85.5,7.63,2,R Dhawan,Right-arm medium-fast,19-Feb-90,India
+190,255,636.0,86.16666666666667,7.38,2,STR Binny,Right-arm medium,3-Jun-84,India
+191,8,371.0,44.0,8.43,2,V Kohli,Right-arm medium,5-Nov-88,India
+192,451,477.0,65.0,7.34,2,BW Hilfenhaus,Right-arm fast-medium,15-Mar-83,Australia
+193,147,669.0,79.16666666666667,8.45,2,DR Smith,Right-arm medium,12-Apr-83,West Indies
+194,78,549.0,61.833333333333336,8.88,2,VRV Singh,Right-arm medium-fast,17-Sep-84,India
+195,371,507.0,68.0,7.46,2,NM Coulter-Nile,Right-arm fast,11-Oct-87,Australia
+196,386,632.0,74.66666666666667,8.46,2,Imran Tahir,Legbreak googly,27-Mar-79,India
+197,378,725.0,102.0,7.11,2,MA Starc,Left-arm fast,30-Jan-90,Australia
+198,1,367.0,46.666666666666664,7.86,2,SC Ganguly,Right-arm medium,8-Jul-72,India
+199,63,458.0,54.333333333333336,8.43,2,LR Shukla,Right-arm medium,6-May-81,India
+200,460,427.0,62.666666666666664,6.81,2,Mustafizur Rahman,Left-arm fast-medium,6-Sep-95,Bangladesh
+201,25,562.0,61.5,9.14,2,JR Hopes,Right-arm medium,24-Oct-78,Australia
+202,429,456.0,55.333333333333336,8.24,2,BB Sran,Left-arm medium,10-Dec-92,India
+203,119,421.0,45.333333333333336,9.29,2,Joginder Sharma,Right-arm fast-medium,23-Oct-83,India
+204,118,366.0,54.833333333333336,6.67,2,GD McGrath,Right-arm fast-medium,9-Feb-70,Australia
+205,90,532.0,73.5,7.24,2,MF Maharoof,Right-arm fast-medium,7-Sep-84,India
+206,403,844.0,106.16666666666667,7.95,2,MJ McClenaghan,Left-arm fast-medium,11-Jun-86,New Zealand
+207,401,409.0,48.166666666666664,8.49,2,D Wiese,Right-arm medium-fast,18-May-85,South Africa
+208,49,307.0,46.666666666666664,6.58,2,SM Pollock,Right-arm fast-medium,16-Jul-73,South Africa
+209,44,396.0,50.166666666666664,7.89,2,ST Jayasuriya,Slow left-arm orthodox,30-Jun-69,Sri Lanka
+210,137,359.0,51.666666666666664,6.95,2,AD Mascarenhas,Right-arm fast-medium,30-Oct-77,England
+211,4,480.0,53.833333333333336,8.92,2,DJ Hussey,Right-arm offbreak,15-Jul-77,Australia
+212,60,364.0,48.0,7.58,2,WPUJC Vaas,Left-arm fast-medium,27-Jan-74,Sri Lanka
+213,56,694.0,90.0,7.71,2,A Symonds,Right-arm offbreak,9-Jun-75,Australia
+214,322,598.0,73.16666666666667,8.17,2,P Negi,Slow left-arm orthodox,6-Jan-93,India
+215,347,711.0,82.33333333333333,8.64,2,Mohammed Shami,Right-arm fast-medium,3-Sep-90,India
+216,196,621.0,81.0,7.67,2,A Singh,Right-arm medium-fast,21-Jun-81,India
+217,395,568.0,65.66666666666667,8.65,2,Anureet Singh,Right-arm medium,2-Mar-88,India
+218,244,475.0,52.0,9.13,2,A Mithun,Right-arm medium,25-Oct-89,India
+219,162,747.0,96.5,7.74,2,CH Gayle,Right-arm offbreak,21-Sep-79,West Indies
+220,256,734.0,95.66666666666667,7.67,2,Harmeet Singh,Slow left-arm orthodox,7-Sep-92,India
+221,238,626.0,89.0,7.03,2,SW Tait,Right-arm fast,22-Feb-83,Australia
+222,309,759.0,100.0,7.59,2,KK Cooper,Right-arm medium,16-Feb-89,West Indies
+223,210,556.0,62.0,8.97,2,R McLaren,Right-arm medium-fast,9-Feb-83,South Africa
+224,286,322.0,44.833333333333336,7.18,2,AG Murtaza,Slow left-arm orthodox,1-Jan-90,India
+225,270,779.0,99.66666666666667,7.82,2,S Aravind,Left-arm medium-fast,8-Apr-84,India
+226,314,422.0,60.5,6.98,2,Ankit Sharma,Slow left-arm orthodox,20-Apr-91,India
+227,302,400.0,50.5,7.92,2,BA Bhatt,Slow left-arm orthodox,13-May-90,India
+228,153,538.0,73.83333333333333,7.29,2,RR Powar,Right-arm offbreak,20-May-78,India
+229,234,444.0,51.0,8.71,2,SJ Srivastava,Left-arm fast-medium,22-Sep-81,India
+230,228,441.0,56.0,7.88,2,Bipul Sharma,Slow left-arm orthodox,28-Sep-83,India
+231,274,406.0,54.5,7.45,2,AC Thomas,Right-arm fast-medium,9-Feb-77,England
+232,321,686.0,92.0,7.46,2,Azhar Mahmood,Right-arm fast-medium,28-Feb-75,Pakistan
+233,325,391.0,45.0,8.69,2,A Ashish Reddy,Right-arm medium,24-Feb-91,India
+234,377,833.0,104.16666666666667,8.0,2,TG Southee,Right-arm medium-fast,11-Dec-88,New Zealand
+235,267,722.0,100.16666666666667,7.21,2,WD Parnell,Left-arm medium-fast,30-Jul-89,South Africa
+236,246,515.0,60.333333333333336,8.54,2,AN Ahmed,Right-arm medium-fast,5-Nov-88,India
+237,135,365.0,45.833333333333336,7.96,2,TM Dilshan,Right-arm offbreak,14-Oct-76,Sri Lanka
+238,248,710.0,100.0,7.1,2,DE Bollinger,Left-arm fast-medium,24-Jul-81,Australia
+239,316,568.0,77.66666666666667,7.31,2,GB Hogg,Slow left-arm chinaman,6-Feb-71,Australia
+240,57,449.0,57.0,7.88,2,RG Sharma,Right-arm offbreak,30-Apr-87,India
+241,258,636.0,83.0,7.66,2,DT Christian,Right-arm fast-medium,4-May-83,Australia
+242,177,515.0,75.83333333333333,6.79,2,RE van der Merwe,Slow left-arm orthodox,31-Dec-84,South Africa
+243,29,2653.0,350.1666666666667,7.58,3,IK Pathan,Left-arm medium-fast,27-Oct-84,India
+244,81,2917.0,356.8333333333333,8.17,3,R Vinay Kumar,Right-arm medium,12-Feb-84,India
+245,201,2528.0,393.1666666666667,6.43,3,R Ashwin,Right-arm offbreak,17-Sep-86,India
+246,67,3123.0,412.0,7.58,3,PP Chawla,Legbreak,24-Dec-88,India
+247,50,3162.0,457.0,6.92,3,Harbhajan Singh,Right-arm offbreak,3-Jul-80,India
+248,15,2511.0,338.3333333333333,7.42,3,Z Khan,Left-arm fast-medium,7-Oct-78,India
+249,14,3135.0,421.5,7.44,3,P Kumar,Right-arm medium,2-Oct-86,India
+250,136,2941.0,411.0,7.16,3,A Mishra,Legbreak,24-Nov-82,India
+251,94,2350.0,359.8333333333333,6.53,3,DW Steyn,Right-arm fast,27-Jun-83,South Africa
+252,71,2778.0,351.6666666666667,7.9,3,DJ Bravo,Right-arm medium-fast,7-Oct-83,West Indies
+253,194,2611.0,401.1666666666667,6.51,3,SL Malinga,Right-arm fast,28-Aug-83,Sri Lanka
+254,186,1415.0,178.16666666666666,7.94,4,SB Jakati,Slow left-arm orthodox,27-Nov-80,India
+255,27,1044.0,142.83333333333334,7.31,4,Yuvraj Singh,Slow left-arm orthodox,12-Dec-81,India
+256,350,1060.0,142.16666666666666,7.46,4,CH Morris,Right-arm fast-medium,30-Apr-87,South Africa
+257,120,1261.0,151.66666666666666,8.31,4,MS Gony,Right-arm medium,4-Jan-84,India
+258,333,1019.0,128.83333333333334,7.91,4,P Awana,Right-arm medium,19-Jul-86,India
+259,116,985.0,121.0,8.14,4,PJ Sangwan,Left-arm medium,5-Nov-90,India
+260,235,1093.0,155.83333333333334,7.01,4,R Sharma,Right-arm offbreak,30-Apr-87,India
+261,77,1208.0,157.83333333333334,7.65,4,S Sreesanth,Right-arm fast-medium,6-Feb-83,India
+262,66,1111.0,152.66666666666666,7.28,4,B Lee,Right-arm fast,8-Nov-76,Australia
+263,21,1029.0,142.0,7.25,4,SK Raina,Right-arm offbreak,27-Nov-86,India
+264,375,971.0,118.33333333333333,8.21,4,JJ Bumrah,Right-arm medium,6-Dec-93,India
+265,82,1166.0,136.66666666666666,8.53,4,AB Agarkar,Right-arm fast,4-Dec-77,India
+266,346,994.0,119.33333333333333,8.33,4,JD Unadkat,Left-arm medium,18-Oct-91,India
+267,357,1367.0,173.83333333333334,7.86,4,MG Johnson,Left-arm fast,2-Nov-81,Australia
+268,334,912.0,108.5,8.41,4,AD Russell,Right-arm fast,29-Apr-88,West Indies
+269,280,1025.0,119.16666666666667,8.6,4,NLTC Perera,Right-arm medium-fast,3-Apr-89,Sri Lanka
+270,293,1201.0,171.16666666666666,7.02,4,S Nadeem,Slow left-arm orthodox,12-Aug-89,India
+271,124,1089.0,163.83333333333334,6.65,4,A Kumble,Legbreak googly,17-Oct-70,India
+272,166,1136.0,142.83333333333334,7.95,4,KV Sharma,Legbreak googly,23-Oct-87,India
+273,374,1218.0,164.33333333333334,7.41,4,AR Patel,Slow left-arm orthodox,20-Jan-94,India
+274,188,1074.0,144.16666666666666,7.45,4,RJ Harris,Right-arm fast,11-Oct-79,Australia
+275,310,1562.0,187.16666666666666,8.35,4,JP Faulkner,Left-arm fast-medium,29-Apr-90,Australia
+276,83,1397.0,197.0,7.09,4,M Kartik,Slow left-arm orthodox,11-Sep-76,India
+277,163,1004.0,128.33333333333334,7.82,4,MC Henriques,Right-arm fast-medium,1-Feb-87,Australia
+278,370,866.0,112.33333333333333,7.71,4,PV Tambe,Legbreak,8-Oct-71,India
+279,191,1031.0,129.33333333333334,7.97,4,AD Mathews,Right-arm fast-medium,2-Jun-87,Sri Lanka
+280,192,801.0,118.16666666666667,6.78,4,J Botha,Right-arm offbreak,2-May-82,South Africa
+281,296,1065.0,129.16666666666666,8.25,4,VR Aaron,Right-arm fast,29-Oct-89,India
+282,382,1249.0,158.0,7.91,4,YS Chahal,Legbreak googly,23-Jul-90,India
+283,31,1371.0,190.33333333333334,7.2,4,YK Pathan,Right-arm offbreak,17-Nov-82,India
+284,38,1465.0,203.83333333333334,7.19,4,SK Warne,Legbreak googly,13-Sep-69,Australia
+285,367,1221.0,162.16666666666666,7.53,4,Sandeep Sharma,Right-arm medium,18-May-93,India
+286,223,810.0,114.83333333333333,7.05,4,DP Nannes,Left-arm fast,16-May-76,Australia
+287,311,941.0,113.66666666666667,8.28,4,HV Patel,Right-arm medium,23-Nov-90,India
+288,175,886.0,130.83333333333334,6.77,4,DL Vettori,Slow left-arm orthodox,27-Jan-79,New Zealand
+289,276,1076.0,154.83333333333334,6.95,4,Shakib Al Hasan,Slow left-arm orthodox,24-Mar-87,Bangladesh
+290,154,805.0,113.83333333333333,7.07,4,JP Duminy,Right-arm offbreak,14-Apr-84,South Africa
+291,140,1063.0,151.5,7.02,4,Iqbal Abdulla,Slow left-arm orthodox,2-Dec-89,India
